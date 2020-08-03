@@ -22,7 +22,7 @@ what is the role of each component
 - conversion bot: prepares the transactions
 - stellar: hosts the transactions
 - 5+ blockchain nodes, validator script, see there are new trasanctions
-- 5+ blockchain nodes, validator script, will run the verifaction scripts/actions
+- 5+ blockchain nodes, validator script, will run the verification scripts/actions
 - 5+ blockchain nodes, validator script, when succesful verification, sign the transaction(s)
 - stellar: once multisignature quorum achieved, Stellar blockchain will allow the conversion transactions to happen
 
